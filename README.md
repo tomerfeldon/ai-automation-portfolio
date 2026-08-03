@@ -1,5 +1,7 @@
 <div align="center">
 
+# Tomer Feldon
+
 **AI agents, automation and end-to-end integrations**
 
 [![Available](https://img.shields.io/badge/Available-part--time%20%C2%B7%20remote-2ea44f?style=flat-square)](#contact)
@@ -7,6 +9,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-tomerfeldon-181717?style=flat-square&logo=github)](https://github.com/tomerfeldon)
 
 [Projects](#at-a-glance) · [Where this applies to a CRM](#where-this-applies-to-a-crm) · [Contact](#contact)
+
+<a href="https://charge-smart-psi.vercel.app">
+  <img src="chargesmart-dashboard.png" alt="ChargeSmart manager dashboard: aggregate load held under a 60 kW ceiling across 8 active vehicles" width="800">
+</a>
+
+<sub><a href="https://charge-smart-psi.vercel.app">ChargeSmart</a> holding 8 vehicles under a 60 kW ceiling, live</sub>
 
 </div>
 
