@@ -1,5 +1,8 @@
 <div align="center">
-
+  <a href="https://charge-smart-psi.vercel.app">
+    <img src="assets/chargesmart-dashboard.png" alt="ChargeSmart manager dashboard" width="800">
+  </a>
+</div>
 # Tomer Feldon
 
 **AI agents, automation and end-to-end integrations**
