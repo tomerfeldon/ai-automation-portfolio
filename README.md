@@ -4,13 +4,16 @@ I build AI agents, automations and end-to-end integrations: systems that make de
 move data between services without a human in the loop. Software engineer, B.Sc. Computer
 Science.
 
+I work in both directions — orchestrating flows in **n8n** where that is the fastest path, and
+dropping into code when a workflow hits the limits of what a visual builder can express.
+
 **Available part-time, remote, freelance.**
 
 **AI & agents:** Anthropic API · Claude Code · MCP (Model Context Protocol) · LiteLLM · self-hosted LLMs
 **Backend:** TypeScript · Node.js · Express · Python · FastAPI · Spring Boot (Kotlin)
 **Frontend:** React
 **Data:** MongoDB · PostgreSQL / Supabase · Kafka
-**Integration & infra:** REST APIs · webhooks · Docker · Git
+**Automation & integration:** n8n · REST APIs · webhooks · Docker · Git
 
 ---
 
@@ -97,6 +100,9 @@ service does.
 
 - **Lead capture and routing** — the NAnalytics delivery guarantees are exactly the problem of
   making sure no inbound lead is ever dropped between a form, an ad platform and the CRM.
+- **Connecting the tools you already use** — n8n for the integration surface between CRM,
+  calendar, messaging and ad platforms, with custom code nodes wherever the off-the-shelf
+  integration stops being enough.
 - **Follow-up and re-engagement agents** — LLM-backed agents that read customer context and act
   on it, built on the Anthropic API and MCP tooling I already work with daily.
 - **Booking, reminders and no-shows** — ChargeSmart is a constraint-based scheduler: deadlines,
